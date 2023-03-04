@@ -1,6 +1,6 @@
 {
    "id":"18",
-   "sortingLayer":-4,
+   "sortingLayer":-3,
    "position":{
       "x":0.0,
       "y":7.0
@@ -29,7 +29,7 @@
       },
       {
          "id":"21",
-         "sortingLayer":-4,
+         "sortingLayer":-2,
          "position":{
             "x":-0.06,
             "y":7.07
@@ -41,7 +41,7 @@
       },
       {
          "id":"22",
-         "sortingLayer":-3,
+         "sortingLayer":-2,
          "position":{
             "x":-16.3,
             "y":0.9
@@ -53,7 +53,7 @@
       },
       {
          "id":"22",
-         "sortingLayer":-3,
+         "sortingLayer":-2,
          "position":{
             "x":23.7,
             "y":0.9
@@ -65,7 +65,7 @@
       },
       {
          "id":"22",
-         "sortingLayer":-3,
+         "sortingLayer":-2,
          "position":{
             "x":3.8,
             "y":0.9
@@ -128,7 +128,7 @@
          "sortingLayer":-4,
          "position":{
             "x":-0.9,
-            "y":3.5
+            "y":3.7
          },
          "size":{
             "x":16.58,
